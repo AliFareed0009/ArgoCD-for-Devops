@@ -98,6 +98,6 @@ This repository is organized into chapters, each with hands-on examples, manifes
 
 ## Contact
 
-Linkedin: [Shubham Londhe](https://linkedin.com/in/shubhamlondhe1996)
+Linkedin: [Ali Fareed](https://linkedin.com/in/shubhamlondhe1996)
 
 Email: [alifareed0009@gmail.com](www.linkedin.com/in/alifareed0009)
